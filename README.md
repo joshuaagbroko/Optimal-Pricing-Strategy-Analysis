@@ -73,19 +73,3 @@ Simulated revenue at varying price points to find the price that maximizes reven
 - **General:** Enhance dataset and re-train models periodically for better accuracy.
 
 ---
-
-## 📂 Project Structure
-
-```bash
-optimal-pricing-project/
-│
-├── data/
-│   └── retail_sales_data.csv
-├── notebooks/
-│   └── price_elasticity_modeling.ipynb
-├── report/
-│   └── Optimal_Pricing_Report.docx
-├── tableau/
-│   └── pricing_dashboard.twbx
-├── README.md
-└── requirements.txt
