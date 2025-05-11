@@ -1,6 +1,6 @@
 # 💸 Optimal Pricing Based on Demand Elasticity
 
-This project analyzes historical sales data to estimate price elasticity of demand for different product categories and recommends optimal pricing strategies to maximize revenue. The work combines economic theory with data science techniques and presents results through Python-based modeling and an interactive Tableau dashboard.
+This project analyzes historical sales data to estimate price elasticity of demand for different product categories and recommends optimal pricing strategies to maximize revenue. The work combines economic theory with data science techniques and presents results through Python-based modeling.
 
 ---
 
